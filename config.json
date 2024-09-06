@@ -1,0 +1,122 @@
+{
+  "captchaOverallS": 28,
+  "captchaOverallF": 16,
+  "blockCapturesOverall": 3,
+  "failedBlockCapturesOverall": 1,
+  "minBlockRate": 0,
+  "minPayRatePerHour": 2,
+  "minPayRatePerHourWF": 1,
+  "minPayRatePerHourGrocery": 2,
+  "arrivalBuffer": 35,
+  "arrivalBufferWF": 20,
+  "arrivalBufferGrocery": 20,
+  "desiredWarehouses": [
+    "0f3a0439-817f-419f-a2dc-422ab2635b55",
+    "d6c82cce-5978-4bbb-9f7d-812e191a7c89",
+    "d2b4cfd7-bfbf-4f08-b895-f31747f16fdf",
+    "87c83f70-90de-472e-88c4-e52164b53699"
+  ],
+  "desiredWFWarehouses": [
+    "01a4c0f9-93eb-44da-8bc3-e7cc57448adc",
+    "488e8dbe-fcd4-49d6-85df-baefe8bdf2f8"
+  ],
+  "desiredGroceryWarehouses": [
+    "257c458c-afcd-4a68-bd37-dbc23b1b726e",
+    "c3aefa6e-f2f9-473e-9f39-12bc46b4fa08",
+    "6be3f278-d39c-4325-b68c-e57d64aebcd1"
+  ],
+  "desiredStartTime": "9:30 AM",
+  "desiredEndTime": "12:59 PM",
+  "desiredWeekdays": [
+    "mon",
+    "tue",
+    "wed",
+    "thu",
+    "fri",
+    "sat",
+    "sun"
+  ],
+  "retryLimit": 1000000,
+  "refreshInterval": 1,
+  "timeoutLength": 20,
+  "consoleLogInterval": 60,
+  "dynamicRequestTrigger": 15,
+  "twilioAcctSid": "",
+  "messaging_service_sid": "",
+  "twilioAuthToken": "",
+  "twilioFromNumber": "",
+  "twilioToNumber": "",
+  "acAPIKey": "",
+  "refreshToken": "",
+  "accessToken": "",
+  "serviceAreas": {
+    "c3aefa6e-f2f9-473e-9f39-12bc46b4fa08": "Las Vegas (UNV2) - Fresh Online",
+    "257c458c-afcd-4a68-bd37-dbc23b1b726e": "Meadows - Cardenas markets - (T011)",
+    "206a41c7-1c21-43f0-bf01-095abb554243": "Fashion Show Las Vegas (PFAB) - Retail Delivery",
+    "b1da69d3-9391-4587-a3ed-2f5b298feefb": "Downtown Summerlin (PDAP) - Retail Delivery",
+    "6be3f278-d39c-4325-b68c-e57d64aebcd1": "Las Vegas (UNV3) - Fresh Online",
+    "d6c82cce-5978-4bbb-9f7d-812e191a7c89": "North Las Vegas (DLV2)- Amazon.com",
+    "0f3a0439-817f-419f-a2dc-422ab2635b55": "Las Vegas NV (VNV2) - Sub Same-Day",
+    "488e8dbe-fcd4-49d6-85df-baefe8bdf2f8": "Las Vegas Paradise (C116) - Whole Foods",
+    "b2d79815-77d6-435e-aa0e-d84f79aa128b": "Galleria at Sunset (PGAD) - Retail Delivery",
+    "d2b4cfd7-bfbf-4f08-b895-f31747f16fdf": "Henderson (DLV4)- Amazon.com",
+    "01a4c0f9-93eb-44da-8bc3-e7cc57448adc": "Las Vegas Angel Park (C127) - Whole Foods",
+    "87c83f70-90de-472e-88c4-e52164b53699": "North Las Vegas (DLV7)- Amazon.com"
+  },
+  "offers": [
+    {
+      "creationDate": null,
+      "deliveryCutOffTimeEpoch": null,
+      "deliveryRequest": null,
+      "endTime": 1693877400,
+      "expirationDate": 1693866600,
+      "hidden": true,
+      "isPriorityOffer": false,
+      "legalEntity": null,
+      "maxWorkload": 0,
+      "offerId": "Ok9mZmVySWQuRW5jcnlwdGlvbktleS02aGlZbDQAAACDDtWCQwmuLr47dpeZlTu2JIh957qOFJ8bzXiruJcB7RTxhpCmMclBlQAJD+yk3nNaxkr1rvzzP3b3PyA6KgD0pfDSC55Wrh5p4/pDRAHLSB5VfBw/Ttpg7LCARTeuhoJxD7kIZZSB9G3Owui8xuglfYj63m3YHHrw7aVD9EThSEyTymZ3tZztUbSD2x53b1fkv3hLPIDP3UJQoDvyn8EQAlbesTFUEeu76Z/lpYgrpQg+JV55Zl+2yjEGysMxWTDLnaJElTbKHxVilDeUH+t0HE2HNZV/Mc5sdqMo1XhstMH9SlY+NNvD9+0KR/zX4Dh4EeA4ezZWR9FwEeRZrxNWLYp5IFNEHWvpqeq5UwUhPmpxiUQTZBLccNoYu/trW1uvnx0LU0vQXUxpOVIrvngt+ILRAFXj6537GdAJVIbfIobbTv3Ny0lX72zfocFRMDIpasl+58eUiyUSjto83PiaTZ4rL/Anmg5+CO5FdmAbvvyPdUs49hkA7I6YeGznhw6+g0y4H71+szYtLmZRtN6XXe6Y/446SMkwNg+D5AsqZgQbcQd8A1gp|nybsPfIdRmxpxtvsCxLPzoKVnkm2H8oTn/F3fH9V7kQ=",
+      "offerMetadata": null,
+      "offerType": "NON_EXCLUSIVE",
+      "rateInfo": {
+        "PriceDetails": null,
+        "currency": "USD",
+        "isSurge": false,
+        "priceAmount": 54,
+        "pricingUXVersion": "V2",
+        "projectedTips": 0,
+        "surgeMultiplier": null,
+        "upfrontTips": null
+      },
+      "schedulingType": "BLOCK",
+      "serviceAreaId": "0f3a0439-817f-419f-a2dc-422ab2635b55",
+      "serviceTypeId": "amzn1.flex.st.v1.PuyOplzlR1idvfPkv5138g",
+      "serviceTypeMetadata": {
+        "modeOfTransportation": null,
+        "nameClassification": "STANDARD"
+      },
+      "startTime": 1693866600,
+      "startingLocation": {
+        "address": {
+          "address1": "",
+          "address2": null,
+          "address3": null,
+          "addressId": null,
+          "city": null,
+          "countryCode": null,
+          "name": null,
+          "phone": null,
+          "postalCode": null,
+          "state": null
+        },
+        "geocode": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "locationType": null,
+        "startingLocationName": ""
+      },
+      "status": "OFFERED",
+      "trIds": null
+    }
+  ]
+}
